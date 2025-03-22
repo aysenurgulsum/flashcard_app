@@ -2,8 +2,8 @@
 
 Basit ve kullanıcı dostu bir **flashcard uygulaması**. Next.js ile geliştirildi. Kullanıcılar kendi kartlarını oluşturabilir, düzenleyebilir ve tekrar yapabilir.
 
-![Ana Sayfa](https://github.com/aysenurgulsum/flashcard-_pp/blob/main/public/1.png?raw=true)
-![Ana Sayfa](https://github.com/aysenurgulsum/flashcard-_pp/blob/main/public/2.png?raw=true)
+![Ana Sayfa](https://github.com/aysenurgulsum/flashcard_app/tree/main/public/images/1.png?raw=true)
+![Ana Sayfa](https://github.com/aysenurgulsum/flashcard_app/tree/main/public/images/2.png?raw=true)
 
 ## 🚀 Özellikler
 
